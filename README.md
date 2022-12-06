@@ -1,4 +1,4 @@
-- 👋 Hi, hi, I'm Eliseo Vazquez M, a passionate self-taught full stack web developer and a freelance software engineer from Mexico. I like Open Source.
+- 👋 Hi, I'm Eliseo Vazquez M, a passionate self-taught full stack web developer and a freelance software engineer from Mexico. I like Open Source.
 - 🌱 I’m currently learning Python, Nodejs.
 - 📫 How to reach me...
 
@@ -7,9 +7,8 @@
   <a href="https://www.facebook.com/eliseo.vazquezm/"><img src="https://img.shields.io/badge/facebook-1DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-
-⚡️**languages and tools:**⚡️
-
+-------
+<h3>⚡️languages and tools</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -24,3 +23,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+-------
+<h3><a href="http://serasombroso.com/">📝My Blog</a></h3>
